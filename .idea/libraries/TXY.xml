@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TXY">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TXY.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
